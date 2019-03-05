@@ -4,3 +4,10 @@
 
 *.opensdf
 *.sdf
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.exe
+*.ilk
+*.log
